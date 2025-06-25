@@ -1,0 +1,37 @@
+# 🧠 Daily Problem Solving with Python
+
+Welcome to my **Daily Problem Solving** journey! 🚀  
+Each day, I solve one coding challenge in Python to sharpen my problem-solving, algorithm, and coding skills — inspired by top companies like Google, Meta, and Amazon.
+
+---
+
+## 📅 Daily Challenges
+
+| Day | Title | Solution |
+|-----|------------------------------|----------|
+<| 01  | Correct Capitalization        | [solution.py](Day01_CorrectCapitalization/solution.py) |!-- NEW_ENTRIES_HERE -->
+
+---
+
+## 📂 Folder Structure
+
+Each folder follows this format:
+
+DayXX_ProblemTitle/
+├── solution.py # Python solution with tests
+└── README.md # Summary: approach, complexity, and explanation
+
+---
+
+## 🛠 How to Run Code
+
+Make sure you have Python 3 installed. Run a solution like so:
+
+```
+python Day01_CorrectCapitalization/solution.py
+
+```
+
+📌 Updated regularly as I work through each challenge.
+
+Happy Coding! 🙌
