@@ -10,7 +10,7 @@ Each day, I solve one coding challenge in Python to sharpen my problem-solving, 
 
 | Day | Title | Solution |
 |-----|-----------------------|----------|
-| 01  | Correct Capitalization| [solution.py]([Day01_CorrectCapitalization/solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day01_correctCapitalization)) |
+| 01  | Correct Capitalization| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day01_correctCapitalization) |
 
 ---
 
