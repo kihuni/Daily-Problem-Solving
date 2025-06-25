@@ -1,6 +1,7 @@
 # 🧠 Daily Problem Solving with Python
 
-Welcome to my **Daily Problem Solving** journey! 🚀  
+Welcome to my **Daily Problem Solving** journey! 🚀 
+ 
 Each day, I solve one coding challenge in Python to sharpen my problem-solving, algorithm, and coding skills — inspired by top companies like Google, Meta, and Amazon.
 
 ---
@@ -8,8 +9,8 @@ Each day, I solve one coding challenge in Python to sharpen my problem-solving, 
 ## 📅 Daily Challenges
 
 | Day | Title | Solution |
-|-----|------------------------------|----------|
-<| 01  | Correct Capitalization        | [solution.py](Day01_CorrectCapitalization/solution.py) |!-- NEW_ENTRIES_HERE -->
+|-----|-----------------------|----------|
+| 01  | Correct Capitalization| [solution.py](Day01_CorrectCapitalization/solution.py) |
 
 ---
 
@@ -18,7 +19,9 @@ Each day, I solve one coding challenge in Python to sharpen my problem-solving, 
 Each folder follows this format:
 
 DayXX_ProblemTitle/
+
 ├── solution.py # Python solution with tests
+
 └── README.md # Summary: approach, complexity, and explanation
 
 ---
