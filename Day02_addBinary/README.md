@@ -15,10 +15,14 @@ Given two binary strings a and b:
 "1" + "0", return  "1"
 
 ``` 
-🧠 Approach
+🧠 Solution Approach
 
-We can solve it using two main approaches:
+We’ll implement a solution that:
+- Iterates through both strings from right to left using indices.
 
-1. Python Built-in Conversion (Quick and clean)
+- Computes the sum and carry for each position.
 
-2. Manual Binary Addition ✅ We’ll implement this
+- Builds the result string and reverses it at the end.
+
+- Handles the final carry and removes leading zeros if needed.
+
