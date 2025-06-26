@@ -11,6 +11,7 @@ Each day, I solve one coding challenge in Python to sharpen my problem-solving, 
 | Day | Title | Solution |
 |-----|-----------------------|----------|
 | 01  | Correct Capitalization| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day01_correctCapitalization) |
+| 02  | add Binary| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day02_addBinary) |
 
 ---
 
