@@ -13,6 +13,7 @@ Each day, I solve one coding challenge in Python to sharpen my problem-solving, 
 | 01  | Correct Capitalization| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day01_correctCapitalization) |
 | 02  | add Binary| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day02_addBinary) |
 | 03  | Can Form Palindrome| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day03canFormPalindrome) |
+| 04  | Has Two Sum| [solution.py](https://github.com/kihuni/Daily-Problem-Solving/tree/main/Day4_hasTwoSum) |
 
 
 ---
